@@ -1,7 +1,7 @@
 👋 Hi, I’m @Lenka-Junova
-👀 I’m interested in testing / QA, hopefully I will have an opportunity to work in this sector 💞
+👀 I’m interested in testing / QA and coding hopefully I will have an opportunity to work in this sector 💞
 
-🌱 I’m currently learning JavaScript, React, Node.js 📖 💻
+🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js 📖 💻
 
 📫 How to reach me  - LinkedIn 🦖 (I check it almost daily 😉 )
 
