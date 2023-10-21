@@ -1,5 +1,5 @@
 👋 Hi, I’m @Lenka-Junova
-👀 I’m interested in testing / QA and coding hopefully I will have an opportunity to work in this sector 💞
+👀 I’m fresh Junior Test Engineer with interest in learning how to code 💞
 
 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, SQL, Postman, Mocha.js 📖 💻
 
