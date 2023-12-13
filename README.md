@@ -1,7 +1,7 @@
 👋 Hi, I’m @Lenka-Junova
 👀 I’m fresh Junior Test Engineer with interest in learning how to code 💞
 
-🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, SQL, Postman, Mocha.js 📖 💻
+🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, SQL, Postman, SOAP UI, Robot Framework, Python, Bash, Mocha.js 📖 💻
 
 📫 How to reach me  - LinkedIn 🦖 (I check it almost daily 😉 )
 
