@@ -1,5 +1,5 @@
 👋 Hi, I’m @Lenka-Junova
-👀 I’m fresh Junior Test Engineer with interest in learning how to code 💞
+👀 I’m a Test Engineer with interest in learning how to code 💞
 
 🌱 I’m currently learning HTML, CSS, JavaScript, Python 📖 💻
 
